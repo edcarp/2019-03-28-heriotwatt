@@ -171,7 +171,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   </p>
   <p>
   <strong>Register:</strong>
-  Please register using this <a src="https://pdms.hw.ac.uk/index.php?Mode=Search&CourseID=4046">link</a>.
+  Please register using this <a href="https://pdms.hw.ac.uk/index.php?Mode=Search&CourseID=4046">link</a>.
 
 </p>
 
