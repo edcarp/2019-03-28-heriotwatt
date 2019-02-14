@@ -167,8 +167,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   {% else %}
     to-be-announced
   {% endif %}
-  for more information.
-  <strong>Register</strong>
+  for more information.<br/>
+  <strong>Register:</strong>
   Please register using this <a src="https://pdms.hw.ac.uk/index.php?Mode=Search&CourseID=4046">link</a>.
 
 </p>
