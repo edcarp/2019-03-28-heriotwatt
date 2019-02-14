@@ -37,15 +37,15 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   are not using Eventbrite, or leave it in, since it will not be
   displayed if the 'eventbrite' field in the header is not set.
 {% endcomment %}
-{% if page.eventbrite %}
+
 <iframe
-  src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
+  src="https://pdms.hw.ac.uk/index.php?Mode=Search&CourseID=4046"
   frameborder="0"
   width="100%"
   height="280px"
   scrolling="auto">
 </iframe>
-{% endif %}
+
 
 <h2 id="general">General Information</h2>
 
