@@ -38,14 +38,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   displayed if the 'eventbrite' field in the header is not set.
 {% endcomment %}
 
-<iframe
-  src="https://pdms.hw.ac.uk/index.php?Mode=Search&CourseID=4046"
-  frameborder="0"
-  width="100%"
-  height="280px"
-  scrolling="auto">
-</iframe>
-
+Please register using this <a src="https://pdms.hw.ac.uk/index.php?Mode=Search&CourseID=4046">link</a>.
 
 <h2 id="general">General Information</h2>
 
