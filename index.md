@@ -38,7 +38,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   displayed if the 'eventbrite' field in the header is not set.
 {% endcomment %}
 
-Please register using this <a src="https://pdms.hw.ac.uk/index.php?Mode=Search&CourseID=4046">link</a>.
 
 <h2 id="general">General Information</h2>
 
@@ -169,6 +168,9 @@ Please register using this <a src="https://pdms.hw.ac.uk/index.php?Mode=Search&C
     to-be-announced
   {% endif %}
   for more information.
+  <strong>Register</strong>
+  Please register using this <a src="https://pdms.hw.ac.uk/index.php?Mode=Search&CourseID=4046">link</a>.
+
 </p>
 
 <hr/>
