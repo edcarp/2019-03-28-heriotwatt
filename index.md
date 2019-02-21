@@ -171,9 +171,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   </p>
   <p>
   <strong>Register:</strong>
-  Please register using this <a href="https://pdms.hw.ac.uk/index.php?Mode=Search&CourseID=4046">link</a>.
-
-</p>
+  Please register using this <a href="https://pdms.hw.ac.uk/index.php?Mode=Search&CourseID=4046">link</a>.<br>
+  Note that this workshop is only available to students and staff based at Heriot-Watt University.
+ </p>
 
 <hr/>
 
