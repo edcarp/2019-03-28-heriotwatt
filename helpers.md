@@ -1,5 +1,5 @@
 ## Day1 AM
-* **Ruairidh** 
+**Ruairidh** 
 * Martino
 * Mario
 * Evan
@@ -19,7 +19,7 @@
 * Evan
 * Matthew?
 
-## Day2 
+## Day2 PM
 **Mario**
 * Martino
 * David
