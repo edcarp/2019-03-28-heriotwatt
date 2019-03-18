@@ -13,15 +13,15 @@
 * Matthew?
 
 ## Day2 AM
-**Martino**
-* Mario
+**Mario**
+* Martino
 * David
 * Evan
 * Matthew?
 
 ## Day2 PM
-**Mario**
-* Martino
+**Martino**
+* Mario
 * David
 * Evan
 * Matthew?
