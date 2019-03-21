@@ -11,20 +11,25 @@
 * Ruairidh
 * Evan
 * Matthew
+* Lucia
 
 ## Day2 AM
 **Mario**
-* Martino
+* Martino ?
 * David
 * Evan
 * Matthew
+* Lucia ?
+* Hans
 
 ## Day2 PM
 **Martino**
-* Mario
+* Mario ?
 * David
 * Evan
 * Matthew
+* Lucia
+* Hans
 
 
 
