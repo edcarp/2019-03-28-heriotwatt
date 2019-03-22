@@ -4,6 +4,8 @@
 * Mario
 * Evan
 * Matthew
+* Bea
+* Clare
 
 ## Day1 PM
 **Martino**
@@ -12,6 +14,8 @@
 * Evan
 * Matthew
 * Lucia
+* Bea
+* Clare
 
 ## Day2 AM
 **Mario**
