@@ -1,4 +1,4 @@
-# Contents
+# Feedback for the Software Carpentry at Heriot Watt Course
 
 * [Shell Feedback](#shell-feedback)
 * [Git Feedback](#git-feedback)
