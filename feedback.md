@@ -113,3 +113,108 @@ Other:
   - then overap and see the change
 * It was too fast to follow each step while applying by myself
 * Improve preparation of content for limited time.
+
+
+# Python Feedback 1
+
+
+## Positive
+
+Great/excellent session/job/experience 6
+
+Informative/Great for beginners/Interesting/Helpful 3
+
+Helpers did a good job 3
+
+Good flow and dynamics
+
+Pace was good
+
+Good delay between explanations and coding
+
+Instructor goes through examples easily and confidently
+
+Instructor is very patient and clear
+
+Clear and friendly
+
+Very hands on
+
+Helps to think like a programmer
+
+Examples were good
+
+Well presented and light-hearted
+
+Good idea to let people think about the solution to a problem
+
+
+## Negative
+
+The pace was very fast, more detailed explanation needed. Most people were not following at all.
+
+Could be longer, with a special intro for those who never used programming before.
+
+Needs to be longer + too much information 3
+
+More in-depth data analysis examples
+
+Should understand ipython functions first
+
+Go faster through the first couple of chapters and give more time for the others
+
+Preference for covering topics more quickly
+
+Decrease the material / too long 3
+
+Give more time for exercises
+
+More examples 
+
+Data science terminology should be explained better
+
+All good / no negative feedback 6
+
+
+# Python Feedback 2
+
+## Positive 
+
+All good/perfect/excellent 7
+
+Well managed
+
+Will improve my research skills, although I had experience with other languages 
+
+Nice -- keep offering this at different skill levels
+
+Easy to understand
+
+Motivating and inspiring
+
+The section on defensive programming was excellent
+
+Covered all the basics
+
+Syntax error [?]
+
+Create a wiki with terms of programming lingo and basic concepts for dummies
+
+
+## Negative
+
+No negative feedback/empty post-it 6
+
+Explain the advantages of python over using other languages. 2
+
+I felt we got stuck on arithmetics. Shell is not necessary to learn python, I would use that time for more python
+
+Too long -- maybe distribute on three days
+
+More time and more classes needed 2
+
+Show references to more complex examples of programs
+
+Introduce types more explicitly. Check people's pace, a few gave up
+
+Define "function"
