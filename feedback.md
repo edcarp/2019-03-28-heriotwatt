@@ -2,6 +2,8 @@
 
 * [Shell Feedback](#shell-feedback)
 * [Git Feedback](#git-feedback)
+* [Python Session 1](#python-feedback-1)
+* [Python Session 2](#python-feedback-2)
 
 # Shell Feedback
 
